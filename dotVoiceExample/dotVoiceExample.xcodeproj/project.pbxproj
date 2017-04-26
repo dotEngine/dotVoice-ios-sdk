@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		64FCA7F16B4B869EFECB39C6 /* libPods-dotVoiceExample.a in Frameworks */ = {isa = PBXBuildFile; fileRef = BA015374D2E030220B72D4EE /* libPods-dotVoiceExample.a */; };
 		F016470D1EB05A3000F8421E /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = F016470C1EB05A3000F8421E /* main.m */; };
 		F01647101EB05A3000F8421E /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = F016470F1EB05A3000F8421E /* AppDelegate.m */; };
 		F01647131EB05A3000F8421E /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F01647121EB05A3000F8421E /* ViewController.m */; };
@@ -88,6 +89,7 @@
 				F01647291EB07B0F00F8421E /* AVFoundation.framework in Frameworks */,
 				F01647271EB07B0500F8421E /* AudioToolbox.framework in Frameworks */,
 				F01647251EB07AFC00F8421E /* libicucore.tbd in Frameworks */,
+				64FCA7F16B4B869EFECB39C6 /* libPods-dotVoiceExample.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
