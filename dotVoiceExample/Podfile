@@ -1,7 +1,6 @@
 
 
 target 'dotVoiceExample' do
-
-    pod 'AFNetworking'
     pod 'Toast', '~> 3.1.0'
+    pod 'libdotVoice', :git => 'https://github.com/dotEngine/dotVoice-ios-sdk.git'
 end
